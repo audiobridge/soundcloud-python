@@ -25,7 +25,6 @@ setup(
         '': ['README.rst']
     },
     install_requires=[
-        'fudge>=1.0.3',
         'requests>=0.14.0',
         'simplejson>=2.0',
     ],
